@@ -6,7 +6,7 @@ La base de datos a trabajar es [CO2 Emissions](https://www.kaggle.com/datasets/b
 
 En la rama principal se encuentra el notebook [Portafolio.ipynb](Portafolio.ipynb) con la implementación del algoritmo de Machine Learning, regresión lineal, sin el uso de frameworks. En este se da una explicación del procedimiento, evaluación y validación del modelo. 
 
-En el documento de [Normatividad](Normatividad.pdf) se encuentra el reporte sobre la normativa de la base de datos utilizada, en este caso, CO2 Emissions, sus derechos de autor y condiciones de uso. 
+En la rama Reto se encuentra el documento de [Normatividad](Normatividad.pdf), reporte sobre la normativa de la base de datos utilizada, en este caso, CO2 Emissions, sus derechos de autor y condiciones de uso. 
 
 En el notebook [Regresión_con_framework.ipynb](Regresión_con_framework.ipynb) se encuentra la implementación de la regresión lineal haciendo uso de la librería *Sklearn*. En este se da una explicación del procedimiento, evaluación y validación del modelo. 
 
