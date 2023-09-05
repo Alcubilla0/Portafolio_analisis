@@ -1,4 +1,4 @@
-# Portafolio implementacion. Módulo 2
+# Portafolio análisis. Módulo 2
 *Inteligencia artificial avanzada para la ciencia de datos I - Portafolio de análisis individual*
 
 **María Fernanda Torres Alcubilla A01285041**
