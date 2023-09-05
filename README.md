@@ -1,5 +1,6 @@
 # Portafolio análisis
 *Inteligencia artificial avanzada para la ciencia de datos I - Portafolio de implementación individual*
+
 **María Fernanda Torres Alcubilla A01285041**
 
 En este repositorio se encuentran los avances de proyectos del Portafolio de análisis. En la rama de Módulo 1 se encuentran los proyectos de Estadística, en la rama de Módulo 2 los de Machine Learning y en la rama Reto los correspondientes a este módulo.
